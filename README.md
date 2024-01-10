@@ -1,6 +1,6 @@
 # Emoji Cheat-Sheet
 
-[![Up to Date](https://github.com/rnem/emoji-cheat-sheet/up-to-date.svg)]
+[![Up to Date](https://github.com/rnem/emoji-cheat-sheet/blob/main/up-to-date.svg)](https://github.com/rnem/emoji-cheat-sheet)
 
 This cheat sheet references [GitHub Emoji API](https://api.github.com/emojis) and [Unicode Full Emoji List](https://unicode.org/emoji/charts/full-emoji-list.html).
 
